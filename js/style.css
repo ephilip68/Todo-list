@@ -1,5 +1,3 @@
-
-
 .todoCard{
     position: relative;
 }
@@ -7,6 +5,7 @@
 .delBtn {
     position: absolute;
     z-index: 1;
-    left: 11%;
+    left: 7.5%;
     bottom: 4%;
 }
+
